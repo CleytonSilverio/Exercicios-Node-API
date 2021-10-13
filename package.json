@@ -1,0 +1,16 @@
+{
+  "name": "exercicio-node",
+  "version": "1.1.0",
+  "description": "Exercicio de experimento node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cleyton",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
